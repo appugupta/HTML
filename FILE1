@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>prac1</title>
+    </head>
+      <body>
+        <h1>My Info</h1>
+        <p>My name is Chhavi Hudda</p>
+        <p>I am Available for hire</p>
+         <p>My hour old price was 640 and the new price is <mark>$30</mark></p>
+         <p>Visit my website from this link <a href="">Click here</a></p>
+         <hr>
+         <h2>Here is some of my clients</h2>
+         <sp>
+            <img src="flower1.jfif" height="200px" width="400px">
+         </sp>
+         <sp>
+            <img src="flower2.jfif" height="200px"" width="400px"">
+         </sp>
+         <sp>
+            <img src="flower3.jfif" height="200px"" width="400px"">
+         </sp>
+         <!-- <sp>
+            <img src="flower4.jfif" height="200px"" width="400px"">
+         </sp> -->
+         <hr>
+         <h2>My Skills</h2>
+         <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <ul>
+               <li>Vuejs</li>
+               <li>Reactjs</li>
+               <li>Angular</li>
+              
+              <ul style="list-style-type:none" >
+               <li>4. V4.0</li>
+               <li>4. V5.0</li>
+               <li>4. V6.0</li>
+               <li>4. V7.0</li>
+               <li>4. V8.0</li>
+               
+            
+             </ul> 
+           <li>Svelte</li>
+         </ul>
+         <li>Python</li>
+
+         </ul>
+
+      
+        </body>
+</html>
