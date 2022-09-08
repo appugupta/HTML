@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charst = "utf-8">
+<title> my first file</title>
+
+</head>
+<body>
+<table border="2" align="center">
+<caption> STUDENT DETAILS </caption>
+<thead>
+<tr>
+<th> S.NO </th>
+<th> STUDENT NAME </th>
+<th> COURSE </th>
+</tr>
+</thead>
+</tbody>
+<tr>
+<td rowspan = "2">1 </td>
+<td> divya </td>
+<td> MCA </td>
+</tr>
+
+<tr>
+<td> amit </td>
+<td> CSE </td>
+</tr>
+
+<tr>
+<td> 2 </td>
+<td> akshay </td>
+<td>
+<ol>
+<li> peel off </li>
+<li> place another </li>
+<li> put back </li>
+</ol>
+</td>
+</tr>
+
+<tr>
+<td> 3 </td>
+<td> Apurva </td>
+<td> CS </td>
+</tr>
+</tbody>
+<tr>
+<td colspan = "3" align = "center">
+ End detail </td>
+</tr>
+</table>
+
+<p align="center"> the<abbr title = " world health orgranization"> WHO </abbr>
+was founded in 1948.
+</p>
+</body>
+</html>
